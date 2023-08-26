@@ -9,7 +9,7 @@
 - My earlier experiences at Appmaxter Software Solutions and RoundPay Voice Tech have instilled a disciplined approach to project execution, quality, and timeliness.
 
 🚀 My project roster includes achievements like:
-- Implementing solutions for property data warehousing, E-commerce migration, and knowledge base automation, all infused with architectural prowess.
+- Implementing solutions for property data warehousing, E-commerce solutions, and knowledge base automation, all infused with architectural prowess.
 - Embracing challenges in chatbot development, home automation, surveillance detection, water management, and water pump control for enhancing daily life through tech.
 
 📚 Beyond coding, I've authored a book titled "Geospatial Applications for Natural Resources Management" and volunteered as an event organizer at Google Developers Group, where I've organized events, conducted workshops, and engaged with a vibrant developer community.
